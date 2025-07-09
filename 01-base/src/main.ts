@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 
 //import './base/01-const-let'
 //import './base/02-object'
+//import './base/03-arrays'
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
     <a href="https://vite.dev" target="_blank">
